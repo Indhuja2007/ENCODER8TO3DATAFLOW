@@ -66,18 +66,11 @@ RegisterNumber:25018219
 
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2bff2f5f-e35a-42ff-9a7f-5d61d2948cb6" />
+
 **TRUTH TABLE**
 
-Inputs (High Bit),d7​,d6​,d5​,d4​,d3​,d2​,d1​,d0​,a2​,a1​,a0​,Binary Result
-None,0,0,0,0,0,0,0,0,0,0,0,000
-d0​,0,0,0,0,0,0,0,1,0,0,0,000
-d1​,0,0,0,0,0,0,1,0,0,0,1,001
-d2​,0,0,0,0,0,1,0,0,0,1,0,010
-d3​,0,0,0,0,1,0,0,0,0,1,1,011
-d4​,0,0,0,1,0,0,0,0,1,0,0,100
-d5​,0,0,1,0,0,0,0,0,1,0,1,101
-d6​,0,1,0,0,0,0,0,0,1,1,0,110
-d7​,1,0,0,0,0,0,0,0,1,1,1,111
+<img width="1639" height="256" alt="image" src="https://github.com/user-attachments/assets/e7d1a10a-12f3-49a2-af5b-2582cd5cddaa" />
 
 **RESULTS**
 
